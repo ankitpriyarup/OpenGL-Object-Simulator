@@ -1,0 +1,24 @@
+﻿  VertexBuffer.cpp
+  VertexArray.cpp
+  stb_image.cpp
+  imgui_impl_glfw_gl3.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  glm.cpp
+  Texture.cpp
+  Shader.cpp
+  Renderer.cpp
+  Object.cpp
+  IndexBuffer.cpp
+  Application.cpp
+c:\projects\opengl-object-simulator\2dobjectssimulator\src\application.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\projects\opengl-object-simulator\2dobjectssimulator\src\application.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\projects\opengl-object-simulator\2dobjectssimulator\src\application.cpp(203): warning C4018: '<': signed/unsigned mismatch
+c:\projects\opengl-object-simulator\2dobjectssimulator\src\application.cpp(220): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Projects\OpenGL-Object-Simulator\Debug\vc120.pdb'; linking object as if no debug info
+  2DObjectsSimulator.vcxproj -> C:\Projects\OpenGL-Object-Simulator\Debug\2DObjectsSimulator.exe
+  2DObjectsSimulator.vcxproj -> C:\Projects\OpenGL-Object-Simulator\Debug\2DObjectsSimulator.pdb (Partial PDB)
